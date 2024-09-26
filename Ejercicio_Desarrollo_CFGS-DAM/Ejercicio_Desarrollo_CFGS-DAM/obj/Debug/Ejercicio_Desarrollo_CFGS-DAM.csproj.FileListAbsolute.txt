@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ejercicio_Desarrollo_CFGS-DAM\Ejercicio_Desarrollo_CFGS-DAM\bin\Debug\Ejercicio_Desarrollo_CFGS-DAM.exe.config
+C:\Users\User\source\repos\Ejercicio_Desarrollo_CFGS-DAM\Ejercicio_Desarrollo_CFGS-DAM\bin\Debug\Ejercicio_Desarrollo_CFGS-DAM.exe
+C:\Users\User\source\repos\Ejercicio_Desarrollo_CFGS-DAM\Ejercicio_Desarrollo_CFGS-DAM\bin\Debug\Ejercicio_Desarrollo_CFGS-DAM.pdb
+C:\Users\User\source\repos\Ejercicio_Desarrollo_CFGS-DAM\Ejercicio_Desarrollo_CFGS-DAM\obj\Debug\Ejercicio_Desarrollo_CFGS-DAM.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ejercicio_Desarrollo_CFGS-DAM\Ejercicio_Desarrollo_CFGS-DAM\obj\Debug\Ejercicio_Desarrollo_CFGS-DAM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ejercicio_Desarrollo_CFGS-DAM\Ejercicio_Desarrollo_CFGS-DAM\obj\Debug\Ejercicio_Desarrollo_CFGS-DAM.exe
+C:\Users\User\source\repos\Ejercicio_Desarrollo_CFGS-DAM\Ejercicio_Desarrollo_CFGS-DAM\obj\Debug\Ejercicio_Desarrollo_CFGS-DAM.pdb
